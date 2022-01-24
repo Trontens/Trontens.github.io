@@ -1,10 +1,8 @@
 ---
 layout: post
 ---
-<img src="/images/fulls/03.jpg" class="fit image"> Curabitur orci turpis, egestas placerat velit eget, dictum pellentesque ipsum. Suspendisse potenti. Suspendisse ac maximus arcu. Sed ut mattis ex. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum eleifend odio vitae varius aliquam. Quisque ac pretium nisi. Curabitur tempus urna ac ultrices commodo.
+<img src="/images/fulls/2.jfif" class="fit image"> Metroidvania o Montevania es un subgénero de videojuego de acción-aventura basado en un concepto de plataformas no lineal.
+Aunque el subgénero ancla sus raíces en juegos de plataformas con elementos no lineales anteriores a la serie Metroid, en los cuales tenemos de ejemplo Montezuma's Revenge considerado el pionero y primer Metroidvania de la historia, aunque Metroid fue el más influyente y conocido cuando el término aún no había sido acuñado. 
 
-Curabitur iaculis est at mattis mattis. Aliquam erat volutpat. Etiam vitae cursus quam. Nunc ultricies nunc non lorem fringilla cursus. Etiam dapibus libero ac turpis accumsan pulvinar. Sed auctor velit eget mi consequat bibendum. Aliquam interdum purus eget metus pretium ullamcorper.
-
-Pellentesque feugiat ex non ligula commodo, eget varius tortor pellentesque. Pellentesque id tortor felis. Cras fringilla ante eget orci laoreet, non consequat urna suscipit. Pellentesque luctus ac nulla vitae porttitor. Proin sed tortor quis magna efficitur efficitur a id leo. Donec efficitur augue et laoreet maximus. Ut semper egestas porttitor. Phasellus sagittis vulputate sem at laoreet.
-
-Sed lobortis urna ut mi volutpat, sit amet euismod sapien tincidunt. Nulla facilisi. Pellentesque quis tempus neque. Mauris dictum ac sapien nec congue. In hac habitasse platea dictumst. Duis id pellentesque nisl. Morbi eget massa magna.
+Por otro lado, la serie Castlevania (que curiosamente había tenido algún escarceo con elementos no lineales en sus segunda entrega Castlevania II: Simon's Quest) fue vinculándose a las plataformas no lineales en 2D a partir de la entrega Castlevania: Symphony of the Night. 
+La influencia de este juego hizo que el término metroidvania, debido al éxito de estas sagas en el mismo género, acabara por englobar a la totalidad del subgénero. Otros nombres incluyen Montevania y Castletroid, una composición similar; Igavania en referencia al desarrollador principal temprano del subgénero Koji Igarashi; juego de estilo Metroid, juego como Metroid, y otras formas refiriendo a Metroid.
